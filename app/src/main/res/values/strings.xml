@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Um projeto de App</string>
+    <string name="btn_message">Pode clicar em mim</string>
+    <string name="txt_message">Digite uma mensagem e seja feliz</string>
+</resources>
